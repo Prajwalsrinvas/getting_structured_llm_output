@@ -2,6 +2,7 @@
 
 - Code files from the deeplearning.ai [short course on Structured LLM Output](https://www.deeplearning.ai/short-courses/getting-structured-llm-output)
 - [Certificate](https://learn.deeplearning.ai/accomplishments/8ed6fab3-53e7-464e-8b17-e85c6a558751)
+- [Handwritten Notes](outlines.pdf)
 
 ## Why Structured LLM Outputs? 🧩
 
